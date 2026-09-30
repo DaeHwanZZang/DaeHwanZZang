@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1205381043813883936/1554884413093974087/24C1C260-1791-4E38-9A3E-678B61A94AA8.jpeg?backend=b2&ex=6abe8274&is=6abd30f4&hm=d38816dbd45678e5088b9d4ae6a7331efff1711e3015b99c2abfb8c94ca5a695&" width="50%">
+  <img src="https://cdn.discordapp.com/attachments/1205381043813883936/1554884413093974087/24C1C260-1791-4E38-9A3E-678B61A94AA8.jpeg?backend=b2&ex=6abe8274&is=6abd30f4&hm=d38816dbd45678e5088b9d4ae6a7331efff1711e3015b99c2abfb8c94ca5a695&" width="40%">
 </p>
 
 <p align="center">
@@ -22,6 +22,9 @@ Passionate about software engineering, backend systems, robotics, and AMR (Auton
 </p>
 
 <br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple-MacBook_Air_M2-999999?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 <p align="center">
   <a href="https://www.instagram.com/daehwan_zz/">
@@ -35,6 +38,9 @@ Passionate about software engineering, backend systems, robotics, and AMR (Auton
   </a>
   <a href="원하는_카카오톡_오픈채팅링크">
     <img src="https://img.shields.io/badge/-KakaoTalk-FFE500?style=flat-square&logo=kakaotalk&logoColor=black" />
+  </a>
+  <a href="https://open.spotify.com/user/31qnr3ql4qts2h7q3nljnt2m7lze">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Profile"/>
   </a>
 </p>
 
