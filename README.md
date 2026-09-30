@@ -13,8 +13,15 @@ Passionate about software engineering, backend systems, robotics, and AMR (Auton
 </p>
 
 <br/>
-<br/>
 
+<p align="center">
+  <a href="https://octo-ring.com/p/DaeHwanZZang/prev">&larr;</a> &nbsp;
+  <a href="https://octo-ring.com">Octo Ring</a> &nbsp;
+  <a href="https://octo-ring.com/p/DaeHwanZZang/random">🎲</a> &nbsp;
+  <a href="https://octo-ring.com/p/DaeHwanZZang/next">&rarr;</a>
+</p>
+
+<br/>
 
 <p align="center">
   <a href="https://www.instagram.com/daehwan_zz/">
