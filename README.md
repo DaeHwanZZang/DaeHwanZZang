@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1205381043813883936/1554884413093974087/24C1C260-1791-4E38-9A3E-678B61A94AA8.jpeg?backend=b2&ex=6abe8274&is=6abd30f4&hm=d38816dbd45678e5088b9d4ae6a7331efff1711e3015b99c2abfb8c94ca5a695&" width="40%">
+  <img src="welcome.png" alt="Welcome 고양이" width="40%">
 </p>
 
 <p align="center">
